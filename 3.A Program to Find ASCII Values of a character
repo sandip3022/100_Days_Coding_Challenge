@@ -1,0 +1,8 @@
+'''Description: Get an input character from the user and give the ASCII value of the given input as the output.
+Input: b
+Output: 98
+Input: B
+Output: 66'''
+
+ch = input()
+print(ord(ch))
