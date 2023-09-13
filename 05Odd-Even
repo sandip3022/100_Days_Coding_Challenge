@@ -8,7 +8,8 @@ Even
 Input
 5
 Output
-Odd '''
+Odd 
+'''
 
 n = int(input())
 if (n%2==0):
