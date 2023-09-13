@@ -5,7 +5,8 @@ Output : Negative number
 Input :0
 Output : Neither positive nor negative
 Input :15
-Output : Positive number'''
+Output : Positive number
+'''
 
 n = int(input())
 if n > 0:
